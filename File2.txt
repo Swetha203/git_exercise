@@ -1,1 +1,2 @@
 adding 1st file for commit 1 in branch1
+adding 1st line for commit 2 in branch1
