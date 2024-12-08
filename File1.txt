@@ -1,1 +1,2 @@
-fthis is first line of the file
+this is first line of the file
+adding line for reset
